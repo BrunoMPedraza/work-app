@@ -1,5 +1,6 @@
-# Tauri + Next.js + Typescript
+# This proyect has been abandoned. Look up Lyzardy as we are remaking everything powered up by 99 over there!
 
+# Tauri + Next.js + Typescript
 This template should help get you started developing with Tauri, Next.js and Typescript.
 
 ## Recommended IDE Setup
